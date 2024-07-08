@@ -1,7 +1,7 @@
 
 
 <div align="center">
- <p> # Flutter - Móvil: De cero a experto</p>
+ <h1> # Flutter - Móvil: De cero a experto</h1>
   <a href="https://www.udemy.com/course/flutter-cero-a-experto/">
     <img src="https://img-c.udemycdn.com/course/750x422/5132066_04b4_3.jpg" alt="Curso de Udemy">
   </a>
