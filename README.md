@@ -1,6 +1,10 @@
 # Flutter - Móvil: De cero a experto
 
-[![Curso de Udemy](https://img-c.udemycdn.com/course/750x422/5132066_04b4_3.jpg)](https://www.udemy.com/course/flutter-cero-a-experto/)
+<div align="center">
+  <a href="https://www.udemy.com/course/flutter-cero-a-experto/">
+    <img src="https://img-c.udemycdn.com/course/750x422/5132066_04b4_3.jpg" alt="Curso de Udemy">
+  </a>
+</div>
 
 ## Descripción
 **Flutter - Móvil: De cero a experto** es un curso integral diseñado para aprender Dart y Flutter, y desarrollar aplicaciones móviles atractivas y funcionales. El curso incluye más de 50 horas de video bajo demanda que abarcan desde los conceptos básicos hasta avanzados, incluyendo patrones de diseño, gestión de estado, integración con APIs y publicación en tiendas de aplicaciones.
