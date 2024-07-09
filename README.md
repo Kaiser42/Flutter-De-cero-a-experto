@@ -10,7 +10,7 @@
 ---
 
 # Temas Puntuales de Cada Sección
-1. [Introduccion a Dart]([Introduccion%20a%20Dart/Temas%20puntuales%20de%20la%20sección.md](https://github.com/Kaiser42/Flutter_De_Cero_A_Experto/blob/main/1-Introduccion%20a%20Dart/Temas%20puntuales%20de%20la%20secci%C3%B3n.md))
+1. [Introduccion a Dart](https://github.com/Kaiser42/Flutter_De_Cero_A_Experto/blob/main/1-Introduccion%20a%20Dart/Temas%20puntuales%20de%20la%20secci%C3%B3n.md)
 
 
 ---
