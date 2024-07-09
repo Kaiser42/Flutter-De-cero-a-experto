@@ -9,6 +9,11 @@
 
 ---
 
+# Temas Puntuales de Cada Sección
+1. [Introduccion a Dart](Introduccion a Dart/Temas puntuales de la sección.md)
+
+
+---
 ## Descripción
 **Flutter - Móvil: De cero a experto** es un curso integral diseñado para aprender Dart y Flutter, y desarrollar aplicaciones móviles atractivas y funcionales. El curso incluye más de 50 horas de video bajo demanda que abarcan desde los conceptos básicos hasta avanzados, incluyendo patrones de diseño, gestión de estado, integración con APIs y publicación en tiendas de aplicaciones.
 
