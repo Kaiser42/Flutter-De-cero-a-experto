@@ -10,7 +10,7 @@
 ---
 
 # Temas Puntuales de Cada Sección
-1. [Introduccion a Dart](Introduccion a Dart/Temas puntuales de la sección.md)
+1. [Introduccion a Dart](Introduccion%20a%20Dart/Temas%20puntuales%20de%20la%20sección.md)
 
 
 ---
